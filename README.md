@@ -2,9 +2,9 @@
 
 My name is Marina and I'm from Spain. I studied Philosophy, specialised in Political Philosophy and worked on my PhD for four years until I decided that I wanted to change career paths and apply some of my skills on another field. That's when I found Data Analytics! 
 
-- 🔭 I’m currently on the last few weeks of my bootcamp at Ironhack and I'm very excited to start my career as a Data Analyst!
+- 🔭 I just finished the Data Analytics bootcamp at Ironhack and I'm very excited to start my career as a Data Analyst!
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently a Junior ML Engineer at Omdena as part of a 50 people team and so far it's been an amazing experience!
 
 - 📫 How to reach me: https://www.linkedin.com/in/marina-amer/
 
